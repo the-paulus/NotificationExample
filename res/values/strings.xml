@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ 
+    <string name="app_name">NotificationExample</string>
+    <string name="button_notify">Notify</string>
+    <string name="message_notified">You have acknowledged the notification.</string>
+    <string name="title_activity_notified">Notified</string>
+    <string name="sendNotification">sendNotification</string>
+    <string name="notified">You have just been notified!</string>
+ 
+</resources>
